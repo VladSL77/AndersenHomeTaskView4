@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AndersenHomeTaskView4</string>
+    <string name="change_size_clockwise">Измените размер стрелок \n (введите число от 50 до 150)</string>
+    <string name="change_color_clockwise">Измените цвет стрелок \n (укажите HEX-код цвета: #000000)</string>
+    <string name="label_change_size_hour">Укажите размер часовой стрелки:</string>
+    <string name="label_change_color_hour">Укажите цвет часовой стрелки:</string>
+    <string name="label_change_size_minute">Укажите размер минутной стрелки:</string>
+    <string name="label_change_color_minute">Укажите цвет минутной стрелки:</string>
+    <string name="label_change_size_second">Укажите размер секундной стрелки:</string>
+    <string name="label_change_color_second">Укажите цвет секундной стрелки:</string>
+    <string name="hint_80">80</string>
+    <string name="hint_120">120</string>
+    <string name="hint_150">150</string>
+    <string name="black">#000000</string>
+    <string name="red">#FF0000</string>
+    <string name="blue">#0000FF</string>
+    <string name="error_size">Неправильные размеры (укажите от 50 до 150)</string>
+    <string name="error_color">Проверьте формат ввода цвета (пример HEX-кода: #FF0000)</string>
+</resources>
